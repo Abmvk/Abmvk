@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abmvk
+- 👋 Hi, I’m @Abmvk or Arnout van Kempen in real life
 - 👀 I’m interested in messing around with computers, and inspiring accountants to do the same
 - 🌱 I’m currently learning C, some Python, PHP and MySQL later on
 - 📫 How to reach me: abmvk@icloud.com
