@@ -9,7 +9,7 @@ Computer klojo
 *  ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://discord.com/users/arnout3855" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
