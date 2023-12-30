@@ -1,7 +1,7 @@
 Computer klojo
 --------------
 
-*   🧠  I'm learning Rust
+🧠  I'm learning Rust
 
 *   ### Skills 
 <p align="left">
